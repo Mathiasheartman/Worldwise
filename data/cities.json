@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "b0e5",
+      "cityName": "Torres de la Alameda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-16T13:45:20.956Z",
+      "notes": "",
+      "position": {
+        "lat": "40.413496049701955",
+        "lng": "-3.3398437500000004"
+      }
+    },
+    {
+      "id": "8ec9",
+      "cityName": "Encamp",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2025-03-16T13:45:27.511Z",
+      "notes": "",
+      "position": {
+        "lat": "42.53689200787317",
+        "lng": "1.6040039062500002"
+      }
+    },
+    {
+      "id": "5bca",
+      "cityName": "mar da Palha",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-03-16T13:45:40.327Z",
+      "notes": "",
+      "position": {
+        "lat": "38.73694606567603",
+        "lng": "-9.030761718750002"
+      }
+    },
+    {
+      "id": "e183",
+      "cityName": "Piedrabuena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-16T13:50:03.286Z",
+      "notes": "",
+      "position": {
+        "lat": "39.13006024213511",
+        "lng": "-4.482421875000001"
+      }
+    }
+  ]
+}
